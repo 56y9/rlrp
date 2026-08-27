@@ -1,0 +1,6 @@
+{
+  "name": "Respect Law - CFW FiveM Rules & Roleplay Guide",
+  "description": "The official comprehensive rules, roleplay regulations, penalty matrix, faction guides, and whitelist test for Respect Law FiveM CFW Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
